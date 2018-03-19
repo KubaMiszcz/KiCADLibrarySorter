@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\bin\Release\SorterKicadLibrary.exe.config
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\bin\Release\SorterKicadLibrary.exe
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\bin\Release\SorterKicadLibrary.pdb
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\App.g.cs
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary_MarkupCompile.cache
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary_MarkupCompile.lref
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary.g.resources
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary.exe
+C:\Users\Administrator\Desktop\GitHubRepositories\SorterKicadLibrary\SorterKicadLibrary\SorterKicadLibrary\obj\Release\SorterKicadLibrary.pdb
