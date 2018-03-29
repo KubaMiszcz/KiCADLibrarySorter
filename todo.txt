@@ -1,0 +1,5 @@
+jesli nic w polach to crash
+przycisk prawa ramka
+przerobic na reacta
+
+zamieniacz tesktu w wielu plikach
